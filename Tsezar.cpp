@@ -1,5 +1,5 @@
 #include "Tsezar.h"
-
+#include "string.h"
 Tsezar::Tsezar()
 {
 	
@@ -18,5 +18,5 @@ void setBuff (char Buff)
 void DecodeBuff(char Buff)
 {
    for(int i = 0;i < strlen(Buff); i++)
-        Buff[i] -= 3;
+        Buff[i] += 3;
 }
