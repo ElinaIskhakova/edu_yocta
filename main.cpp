@@ -1,9 +1,14 @@
 #include <iostream>
+#include "Tsezar.h"
 
 using namespace std;
 
 int main()
-{
-    cout << "Hello World!" << endl;
+{ 
+  char Buff;
+    Tsezar b;
+    b.setBuff();
+     b.DecodeBuff();
+    b.getBuff();
     return 0;
 }

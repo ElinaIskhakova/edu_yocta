@@ -1,16 +1,16 @@
-#ifndef TSEZAR_H
-#define TSEZAR_H
+#ifndef Tsezar_H
+#define Tsezar_H
 
-class TSEZAR
+class Tsezar
 {
 public:
-   TSEZAR()
-   void getBuff()
-   void setBuff()
-   void DecodeBuff()
+   Tsezar();
+   void getBuff();
+   void setBuff();
+   void DecodeBuff();
 
 private:
-	char Buff;
+	char Buff[50];
 };
 
 #endif // TSEZAR_H
