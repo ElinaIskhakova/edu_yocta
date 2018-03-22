@@ -1,3 +1,11 @@
- CMakeLists.txt.user
+CMakeLists.txt.user
  *.pro.user
-CMakeLists.txt.autosave
+cmake_install.cmake
+1labaRaspberry
+libTsezarLib.a
+CMakeFiles
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles
+Makefile
+
