@@ -13,3 +13,9 @@ void MyClass::setStroka()
       cin>>Stroka;
 
  }
+
+void MyClass::getStroka()
+{
+  cout<<Stroka<<endl;
+}
+
