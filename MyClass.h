@@ -1,15 +1,17 @@
-ifndef MYCLASS_H
-#define MYCLASS_H
+#ifndef MyClass_H
+#define MyClass_H
+#include <iostream>
 #include "string.h"
-
+using namespace std;
 class MyClass
 {
 public:
     MyClass();
     void SetStroka();
-    void getStroka(); 
+    void getStroka();
 private:
-	string Stroka;
+    string Stroka;
 };
 
 #endif // MYCLASS_H
+

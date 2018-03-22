@@ -1,9 +1,13 @@
 #include <iostream>
-
+#include "string.h"
+#include "MyClass.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    return 0;
+    string Stroka;
+    MyClass a;
+    a.SetStroka();
+    a.getStroka();
 }
+

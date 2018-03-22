@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/1labaRaspberry.dir/main.cpp.o CMakeFiles/1labaRaspberry.dir/MyClass.cpp.o  -o 1labaRaspberry -rdynamic 

@@ -1,0 +1,3 @@
+/home/elina/1labaRaspberry/CMakeFiles/edit_cache.dir
+/home/elina/1labaRaspberry/CMakeFiles/rebuild_cache.dir
+/home/elina/1labaRaspberry/CMakeFiles/1labaRaspberry.dir

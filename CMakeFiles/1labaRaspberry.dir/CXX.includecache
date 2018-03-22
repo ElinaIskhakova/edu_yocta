@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elina/1labaRaspberry/MyClass.cpp
+MyClass.h
+/home/elina/1labaRaspberry/MyClass.h
+string.h
+/home/elina/1labaRaspberry/string.h
+iostream
+/home/elina/1labaRaspberry/iostream
+
+/home/elina/1labaRaspberry/MyClass.h
+iostream
+-
+string.h
+/home/elina/1labaRaspberry/string.h
+
+/home/elina/1labaRaspberry/main.cpp
+iostream
+-
+string.h
+/home/elina/1labaRaspberry/string.h
+MyClass.h
+/home/elina/1labaRaspberry/MyClass.h
+

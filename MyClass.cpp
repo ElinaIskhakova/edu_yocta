@@ -1,4 +1,4 @@
-#include "myclass.h"
+#include "MyClass.h"
 #include "string.h"
 #include "iostream"
 using namespace std;
@@ -7,7 +7,7 @@ MyClass::MyClass()
 
 }
 
-void MyClass::setStroka()
+void MyClass::SetStroka()
  {
 
       cin>>Stroka;
